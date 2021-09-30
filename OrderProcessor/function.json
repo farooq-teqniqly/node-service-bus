@@ -6,7 +6,7 @@
       "direction": "in",
       "topicName": "orders",
       "subscriptionName": "orders",
-      "connection": "fmduswsb_SERVICEBUS"
+      "connection": "CONNECTION_STRING"
     }
   ]
 }

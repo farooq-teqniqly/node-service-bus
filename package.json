@@ -6,6 +6,10 @@
     "start": "func start --verbose",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
 }
