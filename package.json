@@ -7,6 +7,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "ioredis": "^4.27.9",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
